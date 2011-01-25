@@ -1,0 +1,11 @@
+This is the Anubisway project.
+
+Anubis was an old combat-robot from the Riobotz team (http://www.riobotz.com.br) of PUC-Rio.
+It was adapted to become a two-wheel self balancing vehicle, pretty much like the Segway is.
+
+It was built by the PUC-Rio Riobotz Team and programmed by César Raul Mamani, as part of his Mechanical Engineer MD work with Prof.Marco Meggiolaro.
+Two different control approaches were used, one based on Fuzzy Logic and another one using regular Proportional Integrative Derivative model. Both were programmed fully in Lua and can easially be adapted to run on any eLua supported platform.
+
+The homepage for the project is at http://wiki.eluaproject.net/Anubisway
+
+
